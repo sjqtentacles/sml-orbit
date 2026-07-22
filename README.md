@@ -1,5 +1,7 @@
 # sml-orbit
 
+[![CI](https://github.com/sjqtentacles/sml-orbit/actions/workflows/ci.yml/badge.svg)](https://github.com/sjqtentacles/sml-orbit/actions/workflows/ci.yml)
+
 A zero-dependency Standard ML library for orbital mechanics calculations. Covers vis-viva, Hohmann and bi-elliptic transfers, the Tsiolkovsky rocket equation, sphere of influence, and related astrodynamics utilities.
 
 ## API
